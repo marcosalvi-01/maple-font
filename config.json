@@ -3,7 +3,7 @@
   "family_name": "Maple Mono",
   "use_hinted": true,
   "pool_size": 4,
-  "ligature": false,
+  "ligature": true,
   "feature_freeze": {
     "cv01": "enable",
     "cv02": "ignore",
@@ -47,7 +47,7 @@
   "nerd_font": {
     "enable": true,
     "version": "3.4.0",
-    "mono": false,
+    "mono": true,
     "use_font_patcher": false,
     "glyphs": [
       "--complete"
