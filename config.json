@@ -33,11 +33,11 @@
     "cv99": "ignore",
     "ss01": "enable",
     "ss02": "enable",
-    "ss03": "ignore",
-    "ss04": "disable",
-    "ss05": "ignore",
+    "ss03": "enable",
+    "ss04": "ignore",
+    "ss05": "enable",
     "ss06": "ignore",
-    "ss07": "ignore",
+    "ss07": "enable",
     "ss08": "ignore",
     "ss09": "ignore",
     "ss10": "ignore",
@@ -64,3 +64,4 @@
     "use_static_base_font": true
   }
 }
+
