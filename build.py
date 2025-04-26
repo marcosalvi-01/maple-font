@@ -280,7 +280,7 @@ class FontConfig:
             # whether to use pre-instantiated static CN font as base font
             "use_static_base_font": True,
         }
-        self.glyph_width = 600
+        self.glyph_width = 400
         self.glyph_width_cn_narrow = 1000
         self.use_normal_preset = args.normal
         self.__load_config()
